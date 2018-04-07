@@ -1,0 +1,6 @@
+[submodule "pybind11_exp/python_example"]
+	path = pybind11_exp/python_example
+	url = https://github.com/pybind/python_example.git
+[submodule "pybind11_exp/pybind11"]
+	path = pybind11_exp/pybind11
+	url = https://github.com/pybind/pybind11.git
