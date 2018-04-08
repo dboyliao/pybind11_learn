@@ -1,2 +1,4 @@
 - [Duke U tutorial](http://people.duke.edu/~ccc14/sta-663-2016/18G_C++_Python_pybind11.html)
 - [StackOverflow: pass and return numpy array](https://stackoverflow.com/questions/44659924/returning-numpy-arrays-via-pybind11)
+- CPython
+  - [Object Protocol](https://docs.python.org/3/c-api/object.html)
